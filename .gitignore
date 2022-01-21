@@ -1,0 +1,3 @@
+# Standard gitignore
+# A blank line matches no files.
+*.pyc
