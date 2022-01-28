@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+xmlns:gx="http://www.google.com/kml/ext/2.2"
+xmlns:kml="http://www.opengis.net/kml/2.2"
+xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<name>My Waypoints / GPS WPN</name>
+<Style id="GPSWPNIcon">
+<IconStyle>
+<scale>2</scale>
+<Icon>
+<href>http://www.discipleskies.com/gps_wpn_icon.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Schema id="schema">
+<gx:SimpleArrayData name="waypointnote" type="string">
+<displayName>Waypoint Note</displayName>
+</gx:SimpleArrayData>
+</Schema>
+<Placemark>
+<name>point 2</name>
+<description>point 2
+Lat: 30.423004743643105
+Lng: -84.26223113201559</description>
+<LookAt>
+<longitude>-84.26223113201559</longitude>
+<latitude>30.423004743643105</latitude>
+<altitude>0</altitude>
+<heading>-148.4122922628044</heading>
+<tilt>40.5575073395506</tilt>
+<range>500.6566641072245</range>
+</LookAt>
+<TimeStamp>
+<when>2022-01-12T21:29:59Z</when>
+</TimeStamp>
+<styleUrl>#GPSWPNIcon</styleUrl>
+<Point>
+<coordinates>-84.26223113201559,30.423004743643105,61.9</coordinates>
+<altitudeMode>clampToGround</altitudeMode>
+<extrude>1</extrude>
+</Point>
+</Placemark>
+<Placemark>
+<name>Polaris_White Sands New Mexico</name>
+<description>Polaris_White Sands New Mexico
+Lat: 32.77895
+Lng: -106.17325</description>
+<LookAt>
+<longitude>-106.17325</longitude>
+<latitude>32.77895</latitude>
+<altitude>0</altitude>
+<heading>-148.4122922628044</heading>
+<tilt>40.5575073395506</tilt>
+<range>500.6566641072245</range>
+</LookAt>
+<TimeStamp>
+<when>1969-12-31T19:00:00Z</when>
+</TimeStamp>
+<styleUrl>#GPSWPNIcon</styleUrl>
+<Point>
+<coordinates>-106.17325,32.77895,1216.0</coordinates>
+<altitudeMode>clampToGround</altitudeMode>
+<extrude>1</extrude>
+</Point>
+</Placemark>
+<Placemark>
+<name>quaker</name>
+<description>quaker
+Lat: 30.422850935719907
+Lng: -84.26264871843159</description>
+<LookAt>
+<longitude>-84.26264871843159</longitude>
+<latitude>30.422850935719907</latitude>
+<altitude>0</altitude>
+<heading>-148.4122922628044</heading>
+<tilt>40.5575073395506</tilt>
+<range>500.6566641072245</range>
+</LookAt>
+<TimeStamp>
+<when>2022-01-12T21:26:04Z</when>
+</TimeStamp>
+<styleUrl>#GPSWPNIcon</styleUrl>
+<Point>
+<coordinates>-84.26264871843159,30.422850935719907,107.6</coordinates>
+<altitudeMode>clampToGround</altitudeMode>
+<extrude>1</extrude>
+</Point>
+</Placemark>
+<Placemark>
+<name>quaker 2</name>
+<description>quaker 2
+Lat: 30.423004366457462
+Lng: -84.26247420720756</description>
+<LookAt>
+<longitude>-84.26247420720756</longitude>
+<latitude>30.423004366457462</latitude>
+<altitude>0</altitude>
+<heading>-148.4122922628044</heading>
+<tilt>40.5575073395506</tilt>
+<range>500.6566641072245</range>
+</LookAt>
+<TimeStamp>
+<when>2022-01-12T21:27:34Z</when>
+</TimeStamp>
+<styleUrl>#GPSWPNIcon</styleUrl>
+<Point>
+<coordinates>-84.26247420720756,30.423004366457462,77.8</coordinates>
+<altitudeMode>clampToGround</altitudeMode>
+<extrude>1</extrude>
+</Point>
+</Placemark>
+<Placemark>
+<name>quaker 3</name>
+<description>quaker 3
+Lat: 30.422923481091857
+Lng: -84.2622840218246</description>
+<LookAt>
+<longitude>-84.2622840218246</longitude>
+<latitude>30.422923481091857</latitude>
+<altitude>0</altitude>
+<heading>-148.4122922628044</heading>
+<tilt>40.5575073395506</tilt>
+<range>500.6566641072245</range>
+</LookAt>
+<TimeStamp>
+<when>2022-01-12T21:29:10Z</when>
+</TimeStamp>
+<styleUrl>#GPSWPNIcon</styleUrl>
+<Point>
+<coordinates>-84.2622840218246,30.422923481091857,57.6</coordinates>
+<altitudeMode>clampToGround</altitudeMode>
+<extrude>1</extrude>
+</Point>
+</Placemark>
+<Placemark>
+<name>quaker 4</name>
+<description>quaker 4
+Lat: 30.422946363687515
+Lng: -84.26233783364296</description>
+<LookAt>
+<longitude>-84.26233783364296</longitude>
+<latitude>30.422946363687515</latitude>
+<altitude>0</altitude>
+<heading>-148.4122922628044</heading>
+<tilt>40.5575073395506</tilt>
+<range>500.6566641072245</range>
+</LookAt>
+<TimeStamp>
+<when>2022-01-12T21:30:32Z</when>
+</TimeStamp>
+<styleUrl>#GPSWPNIcon</styleUrl>
+<Point>
+<coordinates>-84.26233783364296,30.422946363687515,65.5</coordinates>
+<altitudeMode>clampToGround</altitudeMode>
+<extrude>1</extrude>
+</Point>
+</Placemark>
+</Document>
+</kml>
